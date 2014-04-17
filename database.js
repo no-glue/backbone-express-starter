@@ -1,4 +1,4 @@
-var dbUrl = 'tips';
+var dbUrl = 'mongodb://user:pass@host:port/app' || 'tips';
 
 var collections = ['tips'];
 
