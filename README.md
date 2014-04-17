@@ -6,9 +6,7 @@ Backbone controllers, collections, models, views and events
 
 Express routes handling with objects
 
-#### Would be nice:
-
-Some ADM
+Building client-side application with gulp
 
 See it [live](http://codetips.herokuapp.com/)
 
